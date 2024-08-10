@@ -1,3 +1,5 @@
+[![Header](https://github.com/agamycode/agamycode/blob/main/banner.png?raw=true "Header")](https://github.com/agamycode)
+
 ## 👋 Hello!
 
 I'm Agamy, a passionate Junior React Developer with a focus on modern web development. I have experience with a variety of tools and frameworks, including Next.js, Zustand, Shadcn/UI, GraphQL, and Express.js. I love coding and am always eager to learn and take on new challenges.
